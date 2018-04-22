@@ -24,6 +24,11 @@ div {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
+.comentarios {
+  background-color: rgba(252, 251, 234);
+  margin-left: 0.5rem;
+}
+
 .contenido {
   margin-top: 2rem;
   background-color: rgba(215, 208, 219, 0.7);
