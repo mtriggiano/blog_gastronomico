@@ -1,5 +1,5 @@
 body {
-  background: url(../img/fondo-1.jpg);
+  background: url(../img/fondo-2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -7,10 +7,27 @@ body {
   height: 100%;
 }
 
+div {
+    font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+}
+
+.ts {
+  font-family: 'Han Sans', sans-serif;
+  color: white;
+}
+
+.ta {
+  font-family: 'Roboto Slab', serif;
+}
+
+.fa {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .contenido {
   margin-top: 2rem;
-  height: 900px;
-  background-color: rgba(215, 208, 219, 0.5);
+  background-color: rgba(215, 208, 219, 0.7);
+  border-radius: 0.2rem;
 }
 
 .cont-izq {
